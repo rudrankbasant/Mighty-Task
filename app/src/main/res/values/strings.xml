@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mighty-Task</string>
+    <string name="intro_text">Enter your name and age.</string>
+    <string name="final_text">Name is this year old</string>
+</resources>
